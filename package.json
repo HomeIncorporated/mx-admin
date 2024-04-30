@@ -102,7 +102,7 @@
     "postcss-nested": "6.0.1",
     "postcss-preset-env": "9.5.4",
     "prettier": "3.2.5",
-    "rollup": "^4.14.0",
+    "rollup": "^4.17.2",
     "rollup-plugin-visualizer": "5.12.0",
     "typescript": "5.4.4",
     "unplugin-auto-import": "0.17.5",
